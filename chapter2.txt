@@ -1,0 +1,9 @@
+V1: So You're Solving A Puzzle
+
+V2: WEEE
+
+V1: It Can't Be That Hard
+    [LOOKS AT PUZZLE]
+    [CPU EXPLODES]
+
+END OF FILE
